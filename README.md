@@ -1,69 +1,60 @@
 <div align="center">
 
-![CAN.OS — Can Saltan, building intelligent software](assets/can-os-header.png)
+<a href="https://cansaltan.github.io/">
+  <img src="./assets/can-os-header.png" alt="CAN.OS — Can Saltan, building intelligent software" width="100%" />
+</a>
 
-**Business Informatics @ Fulda University of Applied Sciences**  
+**Can Saltan** · Business Informatics @ Fulda University of Applied Sciences  
 *Software Development · AI · Automation*
 
-[**LinkedIn**](https://www.linkedin.com/in/can-saltan-218a08445/) · [**Explore my repositories**](https://github.com/cansaltan?tab=repositories)
+**[◈ Launch CAN.OS](https://cansaltan.github.io/)** · [LinkedIn](https://www.linkedin.com/in/can-saltan-218a08445/) · [Repositories](https://github.com/cansaltan?tab=repositories)
+
+<sub>Click the banner to explore my interactive developer portfolio.</sub>
 
 </div>
 
 ---
 
-### `01 / ABOUT ME`
+### `01 / CURRENTLY BUILDING`
 
-I'm Can, a Business Informatics student building software at the intersection of **AI, automation, and practical problem-solving**.
+**Nexus AI** — a personal AI assistant project exploring how software can retain useful context, learn transparently and support people while keeping them in control.
 
-I enjoy taking an idea from the first sketch to a working prototype — and understanding the architecture behind it. My current focus is **Nexus AI**, a personal AI assistant that explores useful long-term memory, transparent learning and human-controlled automation.
-
-> **Currently:** Building Nexus AI · Exploring AI agents and software architecture · Open to working-student opportunities
-
-### `02 / FEATURED BUILD — NEXUS AI`
-
-![Nexus AI system overview — implemented foundations and planned capabilities](assets/nexus-system.svg)
-
-**Nexus AI** is an evolving personal AI assistant project. The goal is a system that can remember relevant context, learn with transparent controls, and eventually help proactively — without sacrificing user oversight.
-
-| Building now / implemented foundations | Vision / future work |
-| --- | --- |
-| React + TypeScript interface and Node.js backend | Dream Cycle for memory consolidation |
-| SQLite-based persistent memory with provenance and management controls | Heartbeat and proactive routines |
-| Conservative Auto-Learn pipeline with review and safeguards | Multi-agent coordination and tool use |
-| OpenRouter adapter with explicit consent and safety checks (live inference not enabled) | More integrated, autonomous workflows |
-
-**Tech:** `React` · `TypeScript` · `Node.js` · `Express` · `SQLite`
+- **Built foundations:** React/TypeScript interface, Node.js backend, SQLite memory with provenance and user controls, conservative Auto-Learn pipeline, and a guarded OpenRouter adapter (live inference not enabled in the documented version).
+- **Long-term vision:** Dream Cycle, proactive Heartbeat routines, specialized agents and permission-based automation.
 
 <details>
-<summary><b>Why Nexus?</b> — The idea behind the project</summary>
+<summary><strong>Explore the Nexus architecture</strong> · implemented foundations vs. future vision</summary>
+
 <br>
 
-Most assistants respond to individual prompts. My longer-term vision is an assistant that can develop continuity across projects: remembering useful decisions, tracking goals and suggesting next actions — while making its sources, permissions and changes understandable to the user.
+![Nexus AI architecture — implemented foundations and planned capabilities](./assets/nexus-system.svg)
 
-The project is still evolving. Planned capabilities are not presented here as shipped features.
+Nexus is in active development. Future capabilities shown in the diagram are **not** presented as shipped features.
+
+**Stack:** `React` · `TypeScript` · `Node.js` · `Express` · `SQLite`
 
 </details>
+
+### `02 / SELECTED WORK`
+
+| Project | What it is | Status |
+| :--- | :--- | :--- |
+| **[CAN.OS](https://cansaltan.github.io/)** · [Source](https://github.com/cansaltan/cansaltan.github.io) | Interactive glassmorphism developer portfolio with a Nexus-inspired control interface | **Live · Public beta** |
+| **Nexus AI** | Personal AI assistant with persistent memory and contextual learning | **In development · Private repo** |
+| **Nodi** | Exploring repetitive email patterns and workflow automation | **Early-stage concept** |
 
 ### `03 / TOOLKIT`
 
 **Languages:** `TypeScript` · `JavaScript` · `Java` · `SQL` · `HTML` · `CSS`  
-**Frameworks & runtime:** `React` · `Node.js` · `Express` · `Bootstrap`  
-**Tools & data:** `Git` · `GitHub` · `VS Code` · `SQLite`  
-**Exploring:** `AI agents` · `LLM integration` · `Automation` · `System design`
+**Tools & frameworks:** `React` · `Node.js` · `Express` · `Bootstrap` · `SQLite` · `Git` · `VS Code`
 
-### `04 / OTHER PROJECTS`
+### `04 / CONNECT`
 
-- **Nodi** — Early-stage exploration of recurring email patterns and workflow automation.
-- **University projects** — Java algorithms, databases, and web application development. Selected repositories and write-ups to follow.
-
-### `05 / CONNECT`
-
-I'm currently interested in **working-student roles in software development, AI and IT**.
-
-[**Connect on LinkedIn**](https://www.linkedin.com/in/can-saltan-218a08445/) · [**GitHub profile**](https://github.com/cansaltan)
+I'm open to **working-student opportunities** in software development, AI and IT.  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/can-saltan-218a08445/) · [Explore my portfolio](https://cansaltan.github.io/)
 
 ---
 
 <div align="center">
-<sub>CAN.OS — the interactive portfolio is coming later. For now, this is where the work begins.</sub>
+  <sub>CAN.OS / Building, learning, iterating.</sub>
 </div>
